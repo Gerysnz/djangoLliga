@@ -1,0 +1,9 @@
+envlliga/
+__pycache__/
+db.sqlite3
+*.pyc
+*.pyo
+*.pyd
+*.swp
+*.swo
+*.log
